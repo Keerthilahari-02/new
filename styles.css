@@ -1,0 +1,63 @@
+body
+{
+ font-family: Georgia, 'Times New Roman', Times, serif;   
+ line-height: 1.5;
+ margin: 1px;
+ padding: 1px;
+ background-color: azure;
+}
+.resume
+{
+    max-width: 500px;
+    margin: 1px auto;
+    background: gray;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.header
+{
+    text-align: center;
+    border-bottom: 2px solid gray;
+    margin-bottom: 22px;
+}
+.header h1
+{
+    margin: 0;
+}
+.header p
+{
+    margin: 5px 0 0;
+}
+section
+{
+    margin-bottom: 20px;
+}
+h2
+{
+    background-color: azure;
+    padding: 10px;
+    margin: 0-20px;
+    border-bottom: solid gray;
+} 
+.education item,.certificate item,.experience :indeterminate
+{
+    margin-bottom: 10px;
+}
+ol
+{
+    list-style-type: disc;
+    margin: 10px 0 0 20px;
+}
+ul
+{
+    list-style-type: disc;
+    margin: 10px 0 0 20px;
+}
+ol li
+{
+    margin-bottom: 5px;
+}
+ul li
+{
+    margin-bottom: 5px;
+}
